@@ -8,7 +8,8 @@ Fundamento, Conceitos e Exemplos
 
 ### Manhã
 
-- Introdução ao Aprendizado de Máquina na Saúde
+- Introdução ao Aprendizado de Máquina na Saúde 
+- https://drive.google.com/file/d/1KRW5pDiFrvc3WR7BIJSk4n-eT1GkYR7q/view?usp=sharing
 - Bibliotecas e Plataformas - Como escolher e ter acesso?
 - Fundamentos para Conquistar a Nuvem
 - Banco de Dados do MIT para a Pesquisa em Saúde na AWS
