@@ -18,8 +18,8 @@ Fundamento, Conceitos e Exemplos
 
 - Apresentação de Resultados Contando Estórias
 - Fundamentos de Machine Learning com Databricks 
-  - Classificação, Regressão
-  - Métricas, Avaliação
+  - [Classificação, Métricas, Avaliação](https://github.com/tiagoandresvaz/curso_machine_learning_na_saude/blob/master/Databricks_Classification.ipynb)
+  - Regressão, Métricas e Avaliação
   - [GridSearch](https://github.com/tiagoandresvaz/curso_machine_learning_na_saude/blob/master/Databrick_Mimic_GridSearch.ipynb)
 - Decision Tree vs. Random Forest
 - Machine Learning sem Programação 
